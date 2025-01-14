@@ -29,3 +29,16 @@ To use this project, you need:
 
    ```bash
    git clone https://github.com/yourusername/brainfuck-interpreter.git
+
+## Usage
+1. Open the application.
+2. Write your Brainfuck code in the editor.
+3. Input any required data in the input field.
+4. Click the "Run" button to execute the code.
+5. View the output and memory state in the designated areas
+
+### Example Code
+```brainfuck
+++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.
+
+```   
