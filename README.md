@@ -1,7 +1,7 @@
 # Brainf*ck Interpreter & Compiler
 
 ![Python version](https://img.shields.io/badge/Python-3.6%2B-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-blue)
+
 ![Status](https://img.shields.io/badge/status-Active-success)
 
 A Python-based Brainf*ck interpreter and compiler that supports a REPL (Read-Evaluate-Print-Loop), bytecode compilation, and execution via a virtual machine (VM). This project allows you to interactively write and run Brainf*ck code, compile it into bytecode, and execute it with optimal performance.
