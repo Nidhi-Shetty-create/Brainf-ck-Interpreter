@@ -28,7 +28,7 @@ To use this project, you need:
 1. **Clone the repository:**
 
    ```bash
-   https://github.com/Nidhi-Shetty-create/Brainf-ck-Interpreter.git
+  git clone https://github.com/Nidhi-Shetty-create/Brainf-ck-Interpreter.git
 
 ## Usage
 1. Open the application.
